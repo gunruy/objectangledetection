@@ -1,4 +1,4 @@
-# objectangledetection
+# object angle detection
 pivot_angle_script
 pivot_angle_script is a Unity MonoBehaviour script designed to manage and manipulate the Z-axis rotation (angle) of a GameObject. It provides methods to set, add, and smoothly animate the Z angle, while also exposing the current Z angle as a public variable for use by other scripts.
 Features
